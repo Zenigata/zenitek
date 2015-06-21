@@ -1,24 +1,173 @@
 <!doctype html>
-<html>
+<html class="no-js">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
     <!-- Always force latest IE rendering engine or request Chrome Frame -->
-    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title>Welcome to Middleman</title>
+    <title>zenitek</title>
 
-    <link href="/stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/all.css" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/all.js" type="text/javascript"></script>
+    <link href="/stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/all.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/bootstrap.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/ionicons.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/font-awesome.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/jquery.fancybox.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/animations.min.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/style-solid-black.css" rel="stylesheet" type="text/css" />
   </head>
 
-  <body class="index">
-    <div class="welcome">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <a href="http://middlemanapp.com/">Read Online Documentation</a>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+  <body class="index" data-spy="scroll" data-target="#menu-section">
+
+    <!--MENU SECTION START-->
+    <div class="navbar navbar-inverse navbar-fixed-top scroll-me" id="menu-section" >
+      <div class="container">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">zenitek</a>
+      </div>
+
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#work">WORK</a></li>
+          <li><a href="#contact">CONTACT</a></li>
+        </ul>
+      </div>
+
+      </div>
+    </div>
+    <!--MENU SECTION END-->
+
+    <section id="work" >
+	<div class="container">
+		<div class="row text-center header animate-in" data-anim-type="fade-in-up">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<h3>Our Works</h3>
+				<hr />
+			</div>
+		</div>
+		<div class="row text-center animate-in" data-anim-type="fade-in-up" >
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pad-bottom">
+				<div class="caegories">
+					<a href="#" data-filter="*" class="active btn btn-custom btn-custom-two btn-sm">All</a>
+					<a href="#" data-filter=".html" class="btn btn-custom btn-custom-two btn-sm">HTML</a>
+					<a href="#" data-filter=".css" class="btn btn-custom btn-custom-two btn-sm">CSS</a>
+					<a href="#" data-filter=".code" class="btn btn-custom btn-custom-two btn-sm" >CODE</a>
+					<a href="#" data-filter=".script" class="btn btn-custom btn-custom-two btn-sm" >SCRIPT</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row text-center animate-in" data-anim-type="fade-in-up" id="work-div">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/1.jpg">
+						<img src="assets/img/portfolio/1.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html css">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/2.jpg">
+						<img src="assets/img/portfolio/2.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 code script">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/3.jpg">
+						<img src="assets/img/portfolio/3.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html script">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/4.jpg">
+						<img src="assets/img/portfolio/4.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html code">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/5.jpg">
+						<img src="assets/img/portfolio/5.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 script">
+				<div class="work-wrapper">
+					<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/6.jpg">
+						<img src="assets/img/portfolio/6.jpg" class="img-responsive img-rounded" alt="" />
+					</a>
+					<h4>Morbi mollis lectus et ipsum</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+    <!--CONTACT SECTION START-->
+    <section id="contact" >
+      <div class="container">
+        <div class="row text-center header animate-in" data-anim-type="fade-in-up">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h3>Contact Details </h3><hr />
+          </div>
+        </div>
+
+        <div class="row animate-in" data-anim-type="fade-in-up">
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="contact-wrapper">
+              <h3>We Are Social</h3>
+              <p>
+                Aliquam tempus ante placerat,
+                consectetur tellus nec, porttitor nulla.
+              </p>
+              <div class="social-below">
+                <a href="#" class="btn button-custom btn-custom-two">Facebook</a>
+                <a href="#" class="btn button-custom btn-custom-two">Twitter</a>
+                <a href="#" class="btn button-custom btn-custom-two">Google +</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="contact-wrapper">
+              <h3>Quick Contact</h3>
+              <h4><strong>Email : </strong> info@yuordomain.com </h4>
+              <h4><strong>Call : </strong> +09-88-99-77-55 </h4>
+              <h4><strong>Skype : </strong> Yujhaeu78 </h4>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="contact-wrapper">
+              <h3>Address : </h3>
+              <h4>230/45 , New way Lane , </h4>
+              <h4>United States</h4>
+              <div class="footer-div">
+                &copy; 2015 YourDomain | <a href="http://www.designbootstrap.com/" target="_blank">by DesignBootstrp</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--CONTACT SECTION END-->
+
+    <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME -->
+    <script src="/javascripts/jquery-1.11.1.js" type="text/javascript"></script><script src="/javascripts/bootstrap.js" type="text/javascript"></script><script src="/javascripts/jquery.vegas.min.js" type="text/javascript"></script><script src="/javascripts/jquery.easing.min.js" type="text/javascript"></script><script src="/javascripts/jquery.fancybox.js" type="text/javascript"></script><script src="/javascripts/jquery.isotope.js" type="text/javascript"></script><script src="/javascripts/appear.min.js" type="text/javascript"></script><script src="/javascripts/animations.min.js" type="text/javascript"></script><script src="/javascripts/custom-solid.js" type="text/javascript"></script>
+
   </body>
 </html>
