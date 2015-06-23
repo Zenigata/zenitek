@@ -10,7 +10,10 @@
 			"favori": true,
 			"image": "dune.jpg",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
 		},
 		{
 			"titre": "Le vieil homme et la mer",
@@ -22,7 +25,10 @@
 			"favori": true,
 			"image": "homme-mer.jpg",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"jeunesse","nouvelle"
+			]
 		},
 		{
 			"titre": "Cyrano de Bergerac",
@@ -34,7 +40,10 @@
 			"favori": true,
 			"image": "cyrano.png",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"classique"
+			]
 		},
 		{
 			"titre": "La guerre éternelle",
@@ -46,7 +55,10 @@
 			"favori": true,
 			"image": "guerre-eternelle.jpg",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"sf"
+			]
 		},
 		{
 			"titre": "World War Z",
@@ -58,7 +70,10 @@
 			"favori": true,
 			"image": "world-war-z.jpg",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"sf"
+			]
 		},
 		{
 			"titre": "Les guerriers du silence",
@@ -70,7 +85,10 @@
 			"favori": true,
 			"image": "silence.jpg",
 			"lien": "http://test.com",
-			"citation": ""
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
 		}
 	]
 }
