@@ -438,3 +438,10 @@ font-size:10px;
 color:#fff;
 text-decoration:none;
 }
+
+/* Zenigata */
+
+.fancybox-title-over-wrap {
+	width: 100%;
+	padding: 0;
+}

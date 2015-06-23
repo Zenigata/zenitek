@@ -3,14 +3,9 @@
 		{
 			"titre": "Le cycle de Dune",
 			"auteur": "Frank Herbert",
-			"type": "Roman",
-			"genre": "Science-fiction",
-			"tomes": 7,
-			"pages": 243,
-			"favori": true,
 			"image": "dune.jpg",
 			"lien": "http://test.com",
-			"citation": "",
+			"citation": "test",
 			"categories": [
 				"sf","saga"
 			]
@@ -18,11 +13,6 @@
 		{
 			"titre": "Le vieil homme et la mer",
 			"auteur": "Ernest Hemingway",
-			"type": "Nouvelle",
-			"genre": "Aventure",
-			"tomes": 1,
-			"pages": 243,
-			"favori": true,
 			"image": "homme-mer.jpg",
 			"lien": "http://test.com",
 			"citation": "",
@@ -33,11 +23,6 @@
 		{
 			"titre": "Cyrano de Bergerac",
 			"auteur": "Edmond Rostand",
-			"type": "Théâtre",
-			"genre": "Classique",
-			"tomes": 1,
-			"pages": 243,
-			"favori": true,
 			"image": "cyrano.png",
 			"lien": "http://test.com",
 			"citation": "",
@@ -48,11 +33,6 @@
 		{
 			"titre": "La guerre éternelle",
 			"auteur": "Joe Haldeman",
-			"type": "roman",
-			"genre": "Science-fiction",
-			"tomes": 1,
-			"pages": 243,
-			"favori": true,
 			"image": "guerre-eternelle.jpg",
 			"lien": "http://test.com",
 			"citation": "",
@@ -63,11 +43,6 @@
 		{
 			"titre": "World War Z",
 			"auteur": "Max Brooks",
-			"type": "roman",
-			"genre": "Science-fiction",
-			"tomes": 1,
-			"pages": 243,
-			"favori": true,
 			"image": "world-war-z.jpg",
 			"lien": "http://test.com",
 			"citation": "",
@@ -78,11 +53,6 @@
 		{
 			"titre": "Les guerriers du silence",
 			"auteur": "Pierre Bordage",
-			"type": "roman",
-			"genre": "Science-fiction",
-			"tomes": 1,
-			"pages": 243,
-			"favori": true,
 			"image": "silence.jpg",
 			"lien": "http://test.com",
 			"citation": "",
