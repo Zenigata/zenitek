@@ -10,7 +10,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title>zenitek</title>
 
-    <link href="stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="stylesheets/bootstrap.css" rel="stylesheet" type="text/css" /><link href="stylesheets/ionicons.css" rel="stylesheet" type="text/css" /><link href="stylesheets/font-awesome.css" rel="stylesheet" type="text/css" /><link href="stylesheets/jquery.fancybox.css" rel="stylesheet" type="text/css" /><link href="stylesheets/animations.min.css" rel="stylesheet" type="text/css" /><link href="stylesheets/style-solid-black.css" rel="stylesheet" type="text/css" />
+    <link href="stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="stylesheets/bootstrap.css" rel="stylesheet" type="text/css" /><link href="stylesheets/ionicons.css" rel="stylesheet" type="text/css" /><link href="stylesheets/font-awesome.css" rel="stylesheet" type="text/css" /><link href="stylesheets/source/jquery.fancybox.css" rel="stylesheet" type="text/css" /><link href="stylesheets/animations.min.css" rel="stylesheet" type="text/css" /><link href="stylesheets/style-solid-black.css" rel="stylesheet" type="text/css" />
   </head>
 
   <body class="index" data-spy="scroll" data-target="#menu-section">
@@ -49,59 +49,60 @@
 		<div class="row text-center animate-in" data-anim-type="fade-in-up">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pad-bottom">
 				<div class="caegories">
-					<a href="#" data-filter="*" class="active btn btn-custom btn-custom-two btn-sm">All</a>
-					<a href="#" data-filter=".html" class="btn btn-custom btn-custom-two btn-sm">HTML</a>
-					<a href="#" data-filter=".css" class="btn btn-custom btn-custom-two btn-sm">CSS</a>
-					<a href="#" data-filter=".code" class="btn btn-custom btn-custom-two btn-sm">CODE</a>
-					<a href="#" data-filter=".script" class="btn btn-custom btn-custom-two btn-sm">SCRIPT</a>
+					<a href="#" data-filter="*" class="active btn btn-custom btn-custom-two btn-sm">Tout</a>
+					<a href="#" data-filter=".sf" class="btn btn-custom btn-custom-two btn-sm">SF</a>
+					<a href="#" data-filter=".fantasy" class="btn btn-custom btn-custom-two btn-sm">Fantasy</a>
+					<a href="#" data-filter=".nouvelle" class="btn btn-custom btn-custom-two btn-sm">Nouvelles</a>
+					<a href="#" data-filter=".jeunesse" class="btn btn-custom btn-custom-two btn-sm">Jeunesse</a>
+					<a href="#" data-filter=".saga" class="btn btn-custom btn-custom-two btn-sm">Saga</a>
 				</div>
 			</div>
 		</div>
 
 		<div class="row text-center animate-in" data-anim-type="fade-in-up" id="work-div">
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 sf saga">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="Le cycle de Dune" href="images/livres/dune.jpg">
+					<a class="fancybox-media" title="Le cycle de Dune|Frank Herbert| sf saga|http://test.com|test" href="images/livres/dune.jpg" rel="zenitek">
 						<img src="images/livres/dune.jpg" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>Le cycle de Dune</h4>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 jeunesse nouvelle">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="Le vieil homme et la mer" href="images/livres/homme-mer.jpg">
+					<a class="fancybox-media" title="Le vieil homme et la mer|Ernest Hemingway| jeunesse nouvelle|http://test.com|" href="images/livres/homme-mer.jpg" rel="zenitek">
 						<img src="images/livres/homme-mer.jpg" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>Le vieil homme et la mer</h4>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 classique">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="Cyrano de Bergerac" href="images/livres/cyrano.png">
+					<a class="fancybox-media" title="Cyrano de Bergerac|Edmond Rostand| classique|http://test.com|" href="images/livres/cyrano.png" rel="zenitek">
 						<img src="images/livres/cyrano.png" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>Cyrano de Bergerac</h4>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 sf">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="La guerre éternelle" href="images/livres/guerre-eternelle.jpg">
+					<a class="fancybox-media" title="La guerre éternelle|Joe Haldeman| sf|http://test.com|" href="images/livres/guerre-eternelle.jpg" rel="zenitek">
 						<img src="images/livres/guerre-eternelle.jpg" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>La guerre éternelle</h4>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 sf">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="World War Z" href="images/livres/world-war-z.jpg">
+					<a class="fancybox-media" title="World War Z|Max Brooks| sf|http://test.com|" href="images/livres/world-war-z.jpg" rel="zenitek">
 						<img src="images/livres/world-war-z.jpg" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>World War Z</h4>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 sf saga">
 				<div class="work-wrapper">
-					<a class="fancybox-media" title="Les guerriers du silence" href="images/livres/silence.jpg">
+					<a class="fancybox-media" title="Les guerriers du silence|Pierre Bordage| sf saga|http://test.com|" href="images/livres/silence.jpg" rel="zenitek">
 						<img src="images/livres/silence.jpg" class="img-responsive img-rounded" alt="" />
 					</a>
 					<h4>Les guerriers du silence</h4>

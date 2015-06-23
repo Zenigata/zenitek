@@ -1,15 +1,15 @@
 /*=============================================================
-    Authour URL: www.designbootstrap.com
-    
-    http://www.designbootstrap.com/
+	Authour URL: www.designbootstrap.com
+	
+	http://www.designbootstrap.com/
 
-    License: MIT
+	License: MIT
 
-    http://opensource.org/licenses/MIT
+	http://opensource.org/licenses/MIT
 
-    100% Free To use For Personal And Commercial Use.
+	100% Free To use For Personal And Commercial Use.
 
-    IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
+	IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
    
 ========================================================  */
 
@@ -35,9 +35,28 @@ POPUP IMAGE SCRIPTS
 $('.fancybox-media').fancybox({
 	openEffect: 'elastic',
 	closeEffect: 'elastic',
+	afterLoad: function() {
+		var res = this.title.split('|');
+		//this.inner.prepend( '<h1>'+res.length+'</h1>' );
+		this.title ='<ul>'
+		+ '<li>' + res[0] + '</li>'
+		+ '<li>écrit par ' + res[1] + '</li>'
+		+ '<li>catégories&nbsp;:&nbsp;' + res[2] + '</li>'
+		+ '<li><a href=\'' + res[3] + '\' target=\'_blank\'>+ de détail</a></li>'
+		+ '<li>«&nbsp;' + res[4] + '&nbsp;»</li>'
+		+ '</ul>';
+	},
+	afterShow: function() {
+		$(".fancybox-title").wrapInner('<div />').show();
+		$(".fancybox-wrap").hover(function() {
+			$(".fancybox-title").show();
+		}, function() {
+			$(".fancybox-title").hide();
+		});
+	},
 	helpers: {
 		title: {
-			type: 'inside'
+			type: 'over'
 		}
 	}
 });
