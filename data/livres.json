@@ -71,13 +71,53 @@
 			]
 		},
 		{
-			"titre": "",
-			"auteur": "",
-			"image": "",
+			"titre": "Des fleurs pour Algernon",
+			"auteur": "Daniel Keyes",
+			"image": "algernon.jpg",
 			"lien": "",
 			"citation": "",
 			"categories": [
-				"sf","saga"
+				"sf"
+			]
+		},
+		{
+			"titre": "La horde du Contrevent",
+			"auteur": "Alain Damasio",
+			"image": "contrevent.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf"
+			]
+		},
+		{
+			"titre": "Les monades urbaines",
+			"auteur": "Robert Silverberg",
+			"image": "monades.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","nouvelles"
+			]
+		},
+		{
+			"titre": "Malevil",
+			"auteur": "Robert Merle",
+			"image": "malevil.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf"
+			]
+		},
+		{
+			"titre": "test",
+			"auteur": "",
+			"image": "malevil.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf"
 			]
 		}
 	]
