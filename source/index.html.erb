@@ -25,12 +25,11 @@ title: zenitek
 
 		<div class="row text-center animate-in" data-anim-type="fade-in-up" id="work-div">
 			<% data.livres.livre.each do |l| %>
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4<% l.categories.each do |c| %><%= ' ' + c %><% end %>">
+			<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2<% l.categories.each do |c| %><%= ' ' + c %><% end %>">
 				<div class="work-wrapper">
 					<a class="fancybox-media" title="<%= l.titre %>|<%= l.auteur %>|<% l.categories.each do |c| %><%= ' ' + c %><% end %>|<%= l.lien %>|<%= l.citation %>" href="images/livres/<%= l.image %>" rel="zenitek">
-						<img src="images/livres/<%= l.image %>" class="img-responsive img-rounded" alt="" />
+						<img src="images/livres/small/<%= l.image %>" class="img-responsive img-rounded" alt="" />
 					</a>
-					<h4><%= l.titre %></h4>
 				</div>
 			</div>
 			<% end %>

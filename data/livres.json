@@ -97,7 +97,7 @@
 			"lien": "",
 			"citation": "",
 			"categories": [
-				"sf","nouvelles"
+				"sf","nouvelle"
 			]
 		},
 		{
@@ -111,13 +111,133 @@
 			]
 		},
 		{
-			"titre": "test",
-			"auteur": "",
-			"image": "malevil.png",
+			"titre": "Les cantos d'Hypérion",
+			"auteur": "Dan Simmons",
+			"image": "hyperion.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
+		},
+		{
+			"titre": "1984",
+			"auteur": "George Orwell",
+			"image": "1984.png",
 			"lien": "",
 			"citation": "",
 			"categories": [
 				"sf"
+			]
+		},
+		{
+			"titre": "Le trône de fer",
+			"auteur": "George R. R. Martin",
+			"image": "trone.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"fantasy","saga"
+			]
+		},
+		{
+			"titre": "Bilbo le hobbit",
+			"auteur": "J. R. R. Tolkien",
+			"image": "bilbo.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"fantasy","jeunesse"
+			]
+		},
+		{
+			"titre": "La pierre et le sabre",
+			"auteur": "Eiji Yoshikawa",
+			"image": "sabre.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"autre"
+			]
+		},
+		{
+			"titre": "Les fourmis",
+			"auteur": "Bernard Werber",
+			"image": "fourmis.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"autre","saga"
+			]
+		},
+		{
+			"titre": "L'enchanteur",
+			"auteur": "René Barjavel",
+			"image": "enchanteur.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"fantasy"
+			]
+		},
+		{
+			"titre": "Le meilleur des mondes",
+			"auteur": "Aldous Huxley",
+			"image": "meilleur.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","jeunesse"
+			]
+		},
+		{
+			"titre": "H2G2",
+			"auteur": "Douglas Adams",
+			"image": "h2g2.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
+		},
+		{
+			"titre": "Le joueur d'échecs",
+			"auteur": "Stefan Zweig",
+			"image": "echecs.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"autre","nouvelle"
+			]
+		},
+		{
+			"titre": "Ubik",
+			"auteur": "Philip K. Dick",
+			"image": "ubik.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf"
+			]
+		},
+		{
+			"titre": "La stratégie Ender",
+			"auteur": "Orson Scott Card",
+			"image": "ender.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
+		},
+		{
+			"titre": "Bartiméus",
+			"auteur": "Jonathan Stroud",
+			"image": "bartimeus.png",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"fantasy","jeunesse"
 			]
 		}
 	]
