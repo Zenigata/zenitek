@@ -59,6 +59,26 @@
 			"categories": [
 				"sf","saga"
 			]
+		},
+		{
+			"titre": "Les annales du Disque-Monde",
+			"auteur": "Terry Pratchett",
+			"image": "disque-monde.jpg",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"fantasy","saga","jeunesse"
+			]
+		},
+		{
+			"titre": "",
+			"auteur": "",
+			"image": "",
+			"lien": "",
+			"citation": "",
+			"categories": [
+				"sf","saga"
+			]
 		}
 	]
 }
