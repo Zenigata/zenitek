@@ -39,9 +39,9 @@ $('.fancybox-media').fancybox({
 		var res = this.title.split('|');
 		//this.inner.prepend( '<h1>'+res.length+'</h1>' );
 		this.title ='<ul>'
-		+ '<li>' + res[0] + '</li>'
-		+ '<li>écrit par ' + res[1] + '</li>'
-		+ '<li>catégories&nbsp;:&nbsp;' + res[2] + '</li>'
+		+ '<li><h4>' + res[0] + '</h4></li>'
+		+ '<li>par <i>' + res[1] + '</i></li>'
+		+ '<li><small>catégories</small>&nbsp;:&nbsp;' + res[2] + '</li>'
 		+ '<li><a href=\'' + res[3] + '\' target=\'_blank\'>+ de détail</a></li>'
 		+ '<li>«&nbsp;' + res[4] + '&nbsp;»</li>'
 		+ '</ul>';
