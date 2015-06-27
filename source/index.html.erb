@@ -6,7 +6,7 @@ title: zenitek
 	<div class="container">
 		<div class="row text-center header animate-in" data-anim-type="fade-in-up">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<h3>Mes livres préférés</h3>
+				<h3>Des livres à lire</h3>
 				<hr />
 			</div>
 		</div>
@@ -19,6 +19,7 @@ title: zenitek
 					<a href="#" data-filter=".nouvelle" class="btn btn-custom btn-custom-two btn-sm">Nouvelles</a>
 					<a href="#" data-filter=".jeunesse" class="btn btn-custom btn-custom-two btn-sm">Jeunesse</a>
 					<a href="#" data-filter=".saga" class="btn btn-custom btn-custom-two btn-sm">Saga</a>
+					<a href="#" data-filter=".autre" class="btn btn-custom btn-custom-two btn-sm">Autres</a>
 				</div>
 			</div>
 		</div>
@@ -28,7 +29,7 @@ title: zenitek
 			<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2<% l.categories.each do |c| %><%= ' ' + c %><% end %>">
 				<div class="work-wrapper">
 					<a class="fancybox-media" title="<%= l.titre %>|<%= l.auteur %>|<% l.categories.each do |c| %><%= ' ' + c %><% end %>|<%= l.lien %>|<%= l.citation %>" href="images/livres/<%= l.image %>" rel="zenitek">
-						<img src="images/livres/small/<%= l.image %>" class="img-responsive img-rounded" alt="" />
+						<img src="images/livres/small/<%= l.image %>" class="img-responsive img-rounded imgCenter" alt="" />
 					</a>
 				</div>
 			</div>

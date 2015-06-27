@@ -4,7 +4,7 @@
 			"titre": "Le cycle de Dune",
 			"auteur": "Frank Herbert",
 			"image": "dune.jpg",
-			"lien": "http://test.com",
+			"lien": "http://booknode.com/le_cycle_de_dune,_tome_1___dune_010273/covers",
 			"citation": "test",
 			"categories": [
 				"sf","saga"
@@ -14,7 +14,7 @@
 			"titre": "Le vieil homme et la mer",
 			"auteur": "Ernest Hemingway",
 			"image": "homme-mer.jpg",
-			"lien": "http://test.com",
+			"lien": "http://ebookbees.com/the-old-man-and-the-sea-free-ebook/",
 			"citation": "",
 			"categories": [
 				"jeunesse","nouvelle"
@@ -24,17 +24,17 @@
 			"titre": "Cyrano de Bergerac",
 			"auteur": "Edmond Rostand",
 			"image": "cyrano.png",
-			"lien": "http://test.com",
+			"lien": "https://thecaferoyal.wordpress.com/tag/cyrano-de-bergerac/",
 			"citation": "",
 			"categories": [
-				"classique"
+				"autre"
 			]
 		},
 		{
 			"titre": "La guerre éternelle",
 			"auteur": "Joe Haldeman",
 			"image": "guerre-eternelle.jpg",
-			"lien": "http://test.com",
+			"lien": "https://www.bungie.net/ru/Forum/Post/62131685/1/0",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -44,7 +44,7 @@
 			"titre": "World War Z",
 			"auteur": "Max Brooks",
 			"image": "world-war-z.jpg",
-			"lien": "http://test.com",
+			"lien": "http://blurbhack.com/reviews/review.php?recordID=133&type=book&code=world-war-z",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -54,7 +54,7 @@
 			"titre": "Les guerriers du silence",
 			"auteur": "Pierre Bordage",
 			"image": "silence.jpg",
-			"lien": "http://test.com",
+			"lien": "http://www.amazon.fr/trilogie-guerriers-du-silence/dp/2841726673/ref=sr_1_9?s=books&ie=UTF8&qid=1435419724&sr=1-9",
 			"citation": "",
 			"categories": [
 				"sf","saga"
@@ -64,7 +64,7 @@
 			"titre": "Les annales du Disque-Monde",
 			"auteur": "Terry Pratchett",
 			"image": "disque-monde.jpg",
-			"lien": "",
+			"lien": "http://labouteille.alencre.fr/produits/fiche/la-huitieme-couleur-3019003532002-v.html",
 			"citation": "",
 			"categories": [
 				"fantasy","saga","jeunesse"
@@ -74,7 +74,7 @@
 			"titre": "Des fleurs pour Algernon",
 			"auteur": "Daniel Keyes",
 			"image": "algernon.jpg",
-			"lien": "",
+			"lien": "http://www.senscritique.com/livre/Des_fleurs_pour_Algernon/436204",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -84,7 +84,7 @@
 			"titre": "La horde du Contrevent",
 			"auteur": "Alain Damasio",
 			"image": "contrevent.png",
-			"lien": "",
+			"lien": "http://booknode.com/la_horde_du_contrevent_013269/covers",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -94,7 +94,7 @@
 			"titre": "Les monades urbaines",
 			"auteur": "Robert Silverberg",
 			"image": "monades.png",
-			"lien": "",
+			"lien": "http://www.amazon.co.uk/The-World-Inside-Robert-Silverberg-ebook/dp/B005K8H136",
 			"citation": "",
 			"categories": [
 				"sf","nouvelle"
@@ -104,7 +104,7 @@
 			"titre": "Malevil",
 			"auteur": "Robert Merle",
 			"image": "malevil.png",
-			"lien": "",
+			"lien": "http://booknode.com/malevil_01258/covers",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -114,7 +114,7 @@
 			"titre": "Les cantos d'Hypérion",
 			"auteur": "Dan Simmons",
 			"image": "hyperion.png",
-			"lien": "",
+			"lien": "http://www.animeserv.net/topic/13159-jeu-du-baccalaur%C3%A9at-attendre-3-post-avant-de-pouvoir-poster-de-nouveau/page-35",
 			"citation": "",
 			"categories": [
 				"sf","saga"
@@ -124,7 +124,7 @@
 			"titre": "1984",
 			"auteur": "George Orwell",
 			"image": "1984.png",
-			"lien": "",
+			"lien": "http://www.informaction.info/iframe-artistique-les-2-minutes-de-la-haine-dans-1984-de-georges-orwell",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -134,7 +134,7 @@
 			"titre": "Le trône de fer",
 			"auteur": "George R. R. Martin",
 			"image": "trone.png",
-			"lien": "",
+			"lien": "http://fantasy-faction.com/forum/fantasy-book-discussion/new-%27game-of-thrones%27-%27a-song-of-ice-fire%27-covers/",
 			"citation": "",
 			"categories": [
 				"fantasy","saga"
@@ -143,8 +143,8 @@
 		{
 			"titre": "Bilbo le hobbit",
 			"auteur": "J. R. R. Tolkien",
-			"image": "bilbo.png",
-			"lien": "",
+			"image": "hobbit.png",
+			"lien": "https://www.pinterest.com/pin/272397477432649151/",
 			"citation": "",
 			"categories": [
 				"fantasy","jeunesse"
@@ -154,7 +154,7 @@
 			"titre": "La pierre et le sabre",
 			"auteur": "Eiji Yoshikawa",
 			"image": "sabre.png",
-			"lien": "",
+			"lien": "http://www.amazon.fr/Yoshikawa-Musashi-Coffret-parfaite-lumi%C3%A8re/dp/2290076295",
 			"citation": "",
 			"categories": [
 				"autre"
@@ -164,7 +164,7 @@
 			"titre": "Les fourmis",
 			"auteur": "Bernard Werber",
 			"image": "fourmis.png",
-			"lien": "",
+			"lien": "http://www.amazon.ca/Fourmis-Nouvelles-Domaine-Francais-Edition-ebook/dp/B00FXWQ9YG",
 			"citation": "",
 			"categories": [
 				"autre","saga"
@@ -174,7 +174,7 @@
 			"titre": "L'enchanteur",
 			"auteur": "René Barjavel",
 			"image": "enchanteur.png",
-			"lien": "",
+			"lien": "http://dessine.blogspot.fr/2014/04/francois-de-constantin.html",
 			"citation": "",
 			"categories": [
 				"fantasy"
@@ -184,7 +184,7 @@
 			"titre": "Le meilleur des mondes",
 			"auteur": "Aldous Huxley",
 			"image": "meilleur.png",
-			"lien": "",
+			"lien": "https://sites.google.com/a/capousd.org/bravenew-sci/",
 			"citation": "",
 			"categories": [
 				"sf","jeunesse"
@@ -194,7 +194,7 @@
 			"titre": "H2G2",
 			"auteur": "Douglas Adams",
 			"image": "h2g2.png",
-			"lien": "",
+			"lien": "http://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html",
 			"citation": "",
 			"categories": [
 				"sf","saga"
@@ -204,7 +204,7 @@
 			"titre": "Le joueur d'échecs",
 			"auteur": "Stefan Zweig",
 			"image": "echecs.png",
-			"lien": "",
+			"lien": "http://www.amazon.co.uk/Schachnovelle-Stefan-Zweig/dp/3866478976",
 			"citation": "",
 			"categories": [
 				"autre","nouvelle"
@@ -214,7 +214,7 @@
 			"titre": "Ubik",
 			"auteur": "Philip K. Dick",
 			"image": "ubik.png",
-			"lien": "",
+			"lien": "http://www.rukkola.hu/konyvek/94054-ubik_angol",
 			"citation": "",
 			"categories": [
 				"sf"
@@ -224,7 +224,7 @@
 			"titre": "La stratégie Ender",
 			"auteur": "Orson Scott Card",
 			"image": "ender.png",
-			"lien": "",
+			"lien": "http://www.endersansible.com/2013/03/26/new-ender-saga-covers/",
 			"citation": "",
 			"categories": [
 				"sf","saga"
@@ -234,7 +234,7 @@
 			"titre": "Bartiméus",
 			"auteur": "Jonathan Stroud",
 			"image": "bartimeus.png",
-			"lien": "",
+			"lien": "http://www.amazon.fr/LAmulette-Samarcande-La-Trilogie-Bartim%C3%A9us/dp/2253121630",
 			"citation": "",
 			"categories": [
 				"fantasy","jeunesse"

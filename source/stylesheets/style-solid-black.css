@@ -449,3 +449,7 @@ text-decoration:none;
 .fancybox-title-over-wrap ul {
 	list-style-type: none;
 }
+
+.imgCenter {
+	margin: auto;
+}
