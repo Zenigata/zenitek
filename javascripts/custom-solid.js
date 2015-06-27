@@ -10,7 +10,7 @@
 	100% Free To use For Personal And Commercial Use.
 
 	IN EXCHANGE JUST TELL PEOPLE ABOUT THIS WEBSITE
-   
+
 ========================================================  */
 
 
@@ -42,7 +42,7 @@ $('.fancybox-media').fancybox({
 		+ '<li><h4>' + res[0] + '</h4></li>'
 		+ '<li>par <i>' + res[1] + '</i></li>'
 		+ '<li><small>catégories</small>&nbsp;:&nbsp;' + res[2] + '</li>'
-		+ '<li><a href=\'' + res[3] + '\' target=\'_blank\'>+ de détail</a></li>'
+		+ '<li><a href=\'' + res[3] + '\' target=\'_blank\'>crédits image</a></li>'
 		+ '<li>«&nbsp;' + res[4] + '&nbsp;»</li>'
 		+ '</ul>';
 	},
@@ -69,6 +69,7 @@ $(window).load(function () {
 	var $container = $('#work-div');
 	$container.isotope({
 		filter: '*',
+		sortBy : 'random',
 		animationOptions: {
 			duration: 750,
 			easing: 'linear',
