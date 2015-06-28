@@ -5,7 +5,7 @@
 			"auteur": "Frank Herbert",
 			"image": "dune.jpg",
 			"lien": "http://booknode.com/le_cycle_de_dune,_tome_1___dune_010273/covers",
-			"citation": "test",
+			"citation": "Ce n'est pas à la création que les Empires souffrent de ne pas avoir de but, mais plus tard, lorsqu'ils sont fermement établis et que les objectifs sont oubliés et remplacés par des rites sans fondements.",
 			"categories": [
 				"sf","saga"
 			]
@@ -15,7 +15,7 @@
 			"auteur": "Ernest Hemingway",
 			"image": "homme-mer.jpg",
 			"lien": "http://ebookbees.com/the-old-man-and-the-sea-free-ebook/",
-			"citation": "",
+			"citation": "Il embrassa la mer d'un regard et se rendit compte de l'infinie solitude où il se trouvait. Toutefois il continuait à apercevoir des prismes dans les profondeurs ténébreuses. La ligne s'étirait à la proue ; d'étranges ondulations parcouraient l'eau calme. Les nuages se portaient à la rencontre des alizés. En avant de la barque, un vol de canards sauvages se découpait contre le ciel ; il disparut, puis reparut, et le vieux sut que nul n'est jamais complètement seul en mer.",
 			"categories": [
 				"jeunesse","nouvelle"
 			]
@@ -25,7 +25,7 @@
 			"auteur": "Edmond Rostand",
 			"image": "cyrano.png",
 			"lien": "https://thecaferoyal.wordpress.com/tag/cyrano-de-bergerac/",
-			"citation": "",
+			"citation": "C'est une expérience à tenter un poète. Veux-tu me compléter et que je te complète ? Tu marcheras, j'irai dans l'ombre à ton côté : Je serai ton esprit, tu seras ma beauté.",
 			"categories": [
 				"autre"
 			]
@@ -35,7 +35,7 @@
 			"auteur": "Joe Haldeman",
 			"image": "guerre-eternelle.jpg",
 			"lien": "https://www.bungie.net/ru/Forum/Post/62131685/1/0",
-			"citation": "",
+			"citation": "Mais, l'amour, disait-il, l'amour est une fleur fragile ; l'amour est un cristal délicat ; l'amour est une réaction instable d'une demi-vie d'environ huit mois.",
 			"categories": [
 				"sf"
 			]
@@ -45,7 +45,7 @@
 			"auteur": "Max Brooks",
 			"image": "world-war-z.jpg",
 			"lien": "http://blurbhack.com/reviews/review.php?recordID=133&type=book&code=world-war-z",
-			"citation": "",
+			"citation": "L'avenir est bien trop montagneux pour qu'on distingue l'horizon.",
 			"categories": [
 				"sf"
 			]
@@ -55,7 +55,7 @@
 			"auteur": "Pierre Bordage",
 			"image": "silence.jpg",
 			"lien": "http://www.amazon.fr/trilogie-guerriers-du-silence/dp/2841726673/ref=sr_1_9?s=books&ie=UTF8&qid=1435419724&sr=1-9",
-			"citation": "",
+			"citation": "Les habitants de Bawalo en avaient conclu que Blanc-Jaune (son surnom, qui prenait en compte la pâleur de sa peau et la couleur safran de son vêtement) n'était attiré ni par les femmes ni par les hommes en pleine force de l'âge, et on lui avait proposé des anciennes, des anciens, des cadavres, puis lorsqu'on avait épuisé toutes les hypothèses humaines, des poissons vivants, des poissons morts, et enfin, descendant encore d'un degré dans l'échelle de l'évolution, des fruits et des feuilles.",
 			"categories": [
 				"sf","saga"
 			]
@@ -65,7 +65,7 @@
 			"auteur": "Terry Pratchett",
 			"image": "disque-monde.jpg",
 			"lien": "http://labouteille.alencre.fr/produits/fiche/la-huitieme-couleur-3019003532002-v.html",
-			"citation": "",
+			"citation": "L'autre légende, que n'évoquent guère les autochtones, veut qu'en un temps encore plus reculé un groupe de sages survécut à une inondation envoyée par les dieux en construisant un immense bateau à bord duquel ils embarquèrent un couple de tous les animaux qui vivaient alors sur le disque. Au bout de quelques semaines le poids de tout le fumier accumulé commençait à enfoncer le bateau dans l'eau, aussi – prétend toujours la légende – ils le passèrent par-dessus bord et le nommèrent Ankh-Morpork.",
 			"categories": [
 				"fantasy","saga","jeunesse"
 			]
@@ -75,7 +75,7 @@
 			"auteur": "Daniel Keyes",
 			"image": "algernon.jpg",
 			"lien": "http://www.senscritique.com/livre/Des_fleurs_pour_Algernon/436204",
-			"citation": "",
+			"citation": "Je suis comme un homme qui a été à demi endormi toute sa vie et qui essaie de découvrir comme il était, avant de se réveiller.",
 			"categories": [
 				"sf"
 			]
@@ -85,7 +85,7 @@
 			"auteur": "Alain Damasio",
 			"image": "contrevent.png",
 			"lien": "http://booknode.com/la_horde_du_contrevent_013269/covers",
-			"citation": "",
+			"citation": "Elle avait des yeux d’un bleu d’orage, d’un bleu si dense que je l’imaginais, pleurant, faire des trous de ciel dans son mouchoir.",
 			"categories": [
 				"sf"
 			]
@@ -95,7 +95,7 @@
 			"auteur": "Robert Silverberg",
 			"image": "monades.png",
 			"lien": "http://www.amazon.co.uk/The-World-Inside-Robert-Silverberg-ebook/dp/B005K8H136",
-			"citation": "",
+			"citation": "Dehors la nuit est sans lune. Le ciel est incendié d'étoiles.",
 			"categories": [
 				"sf","nouvelle"
 			]
@@ -105,7 +105,7 @@
 			"auteur": "Robert Merle",
 			"image": "malevil.png",
 			"lien": "http://booknode.com/malevil_01258/covers",
-			"citation": "",
+			"citation": "on dit que mon père est bon comme du bon pain. Justement. Trop de mie, pas assez de croûte.",
 			"categories": [
 				"sf"
 			]
@@ -115,7 +115,7 @@
 			"auteur": "Dan Simmons",
 			"image": "hyperion.png",
 			"lien": "http://www.animeserv.net/topic/13159-jeu-du-baccalaur%C3%A9at-attendre-3-post-avant-de-pouvoir-poster-de-nouveau/page-35",
-			"citation": "",
+			"citation": "Sur l’Ancienne Terre, au XXe siècle, une chaîne de restauration rapide a fait fortune rien qu’en vendant à ses clients de la vache morte frite dans de la graisse, assaisonnée de produits cancérigènes et emballée dans de la mousse à base d’hydrocarbures. Neuf cents milliards d’exemplaires ont été ainsi écoulés. Allez comprendre…",
 			"categories": [
 				"sf","saga"
 			]
@@ -125,7 +125,7 @@
 			"auteur": "George Orwell",
 			"image": "1984.png",
 			"lien": "http://www.informaction.info/iframe-artistique-les-2-minutes-de-la-haine-dans-1984-de-georges-orwell",
-			"citation": "",
+			"citation": "Big Brother is watching you.",
 			"categories": [
 				"sf"
 			]
@@ -135,7 +135,7 @@
 			"auteur": "George R. R. Martin",
 			"image": "trone.png",
 			"lien": "http://fantasy-faction.com/forum/fantasy-book-discussion/new-%27game-of-thrones%27-%27a-song-of-ice-fire%27-covers/",
-			"citation": "",
+			"citation": "Le navire gémissait et grondait sous lui comme un obèse constipé se battant pour chier.",
 			"categories": [
 				"fantasy","saga"
 			]
@@ -145,7 +145,7 @@
 			"auteur": "J. R. R. Tolkien",
 			"image": "hobbit.png",
 			"lien": "https://www.pinterest.com/pin/272397477432649151/",
-			"citation": "",
+			"citation": "In a hole in the ground there lived a hobbit.",
 			"categories": [
 				"fantasy","jeunesse"
 			]
@@ -155,7 +155,7 @@
 			"auteur": "Eiji Yoshikawa",
 			"image": "sabre.png",
 			"lien": "http://www.amazon.fr/Yoshikawa-Musashi-Coffret-parfaite-lumi%C3%A8re/dp/2290076295",
-			"citation": "",
+			"citation": "Connaître quelque chose veut dire l'expérimenter concrètement. Un livre de cuisine ne supprimera pas votre faim.",
 			"categories": [
 				"autre"
 			]
@@ -165,7 +165,7 @@
 			"auteur": "Bernard Werber",
 			"image": "fourmis.png",
 			"lien": "http://www.amazon.ca/Fourmis-Nouvelles-Domaine-Francais-Edition-ebook/dp/B00FXWQ9YG",
-			"citation": "",
+			"citation": "Tout est en un (Abraham) Tout est amour (Jésus-Christ) Tout est économique (Karl Marx) Tout est sexuel (Sigmund Freud) Tout est relatif (Albert Einstein) Et ensuite ?",
 			"categories": [
 				"autre","saga"
 			]
@@ -175,7 +175,7 @@
 			"auteur": "René Barjavel",
 			"image": "enchanteur.png",
 			"lien": "http://dessine.blogspot.fr/2014/04/francois-de-constantin.html",
-			"citation": "",
+			"citation": "C'était un malheur commun en ce temps-là : un dragon s'installait quelque part, près d'un village, de préférence dans une profonde caverne, et exigeait qu'on lui livrât à date fixe une fille vierge sans quoi il détruirait le village, incendierait les récoltes, et réduirait les paysans en bouillie. On n'a jamais su pourquoi les dragons exigeaient des filles vierges. Car ils ne les demandaient pas pour en user charnellement, mais seulement pour les manger. On aurait pu penser qu'une dame un peu grassette, ou même un boeuf, auraient mieux fait l'affaire. Mais non : les dragons, tous les dragons, ont toujours voulu des filles vierges. C'est un mystère.",
 			"categories": [
 				"fantasy"
 			]
@@ -185,7 +185,7 @@
 			"auteur": "Aldous Huxley",
 			"image": "meilleur.png",
 			"lien": "https://sites.google.com/a/capousd.org/bravenew-sci/",
-			"citation": "",
+			"citation": "Les mots peuvent ressembler aux rayons X : si l'on s'en sert convenablement, ils transpercent n'importe quoi. On lit et l'on est transpercé.",
 			"categories": [
 				"sf","jeunesse"
 			]
@@ -195,7 +195,7 @@
 			"auteur": "Douglas Adams",
 			"image": "h2g2.png",
 			"lien": "http://www.lifehack.org/articles/communication/30-books-that-everyone-should-read-least-once-their-lives.html",
-			"citation": "",
+			"citation": "D'après une théorie, le jour où quelqu'un découvrira exactement à quoi sert l'Univers et pourquoi il est là, ledit Univers disparaîtra sur-le-champ pour se voir remplacé par quelque chose de considérablement plus inexplicable et bizarre. Selon une autre théorie, la chose se serait en fait déjà produite.",
 			"categories": [
 				"sf","saga"
 			]
@@ -205,7 +205,7 @@
 			"auteur": "Stefan Zweig",
 			"image": "echecs.png",
 			"lien": "http://www.amazon.co.uk/Schachnovelle-Stefan-Zweig/dp/3866478976",
-			"citation": "",
+			"citation": "On ne nous faisait rien – on nous laissait seulement en face du néant, car il est notoire qu'aucune chose au monde n'oppresse davantage l'âme humaine.",
 			"categories": [
 				"autre","nouvelle"
 			]
@@ -215,7 +215,7 @@
 			"auteur": "Philip K. Dick",
 			"image": "ubik.png",
 			"lien": "http://www.rukkola.hu/konyvek/94054-ubik_angol",
-			"citation": "",
+			"citation": "On aurait dit, pensait-il, qu’elle se refusait à séduire, qu’elle détestait et méprisait la douceur de sa peau, la sensualité de ses lèvres sombres et gonflées. Elle avait l’air, se dit-il, de sortir du lit. Toute chiffonnée. En colère contre le jour – et en fait contre tous les autres jours.",
 			"categories": [
 				"sf"
 			]
@@ -225,7 +225,7 @@
 			"auteur": "Orson Scott Card",
 			"image": "ender.png",
 			"lien": "http://www.endersansible.com/2013/03/26/new-ender-saga-covers/",
-			"citation": "",
+			"citation": "Elle enfonça ses orteils dans le sable, sentant l'infime et délicieuse douleur du frottement des minuscules grains entre ses doigts de pied. C'est la vie. Ça fait mal, c'est sale, mais c'est tellement bon.",
 			"categories": [
 				"sf","saga"
 			]
@@ -235,7 +235,7 @@
 			"auteur": "Jonathan Stroud",
 			"image": "bartimeus.png",
 			"lien": "http://www.amazon.fr/LAmulette-Samarcande-La-Trilogie-Bartim%C3%A9us/dp/2253121630",
-			"citation": "",
+			"citation": "J'opte pour un ton grave, plein de nuances, onctueux comme du chocolat bien noir, le genre de voix qui retentit partout à la fois sans source précise et hérisse les cheveux sur les jeunes nuques inexpérimentées. « BARTIMÉUS. »",
 			"categories": [
 				"fantasy","jeunesse"
 			]
